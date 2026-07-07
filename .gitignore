@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+models/
+*.pkl
+*.joblib
+
+.vscode/
+.idea/
+
+.DS_Store
